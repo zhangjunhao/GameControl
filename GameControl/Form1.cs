@@ -9,6 +9,8 @@ namespace GameControl
             InitializeComponent();
 
             MessageBox.Show(@"测试程序");
+
+            MessageBox.Show(@"Second Box");
         }
     }
 }
